@@ -6,3 +6,5 @@ https://epg.pw/xmltv/epg_FR.xml
 https://epg.pw/xmltv/epg_FR.xml.gz
 https://epg.pw/xmltv/epg_GB.xml
 https://epg.pw/xmltv/epg_US.xml
+https://xmltv.ch/xmltv/xmltv-complet.xml
+https://xmltv.ch/xmltv/xmltv-cplus.xml
