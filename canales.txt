@@ -82,9 +82,9 @@ LaLiga TV Hypermotion 3,ES:LALIGATVHYPERMOTION3
 La Resistencia 24H,ES:LARESISTENCIA
 La Sexta HD,ES:LASEXTA
 M+ Vamos HD,ES:M+#VAMOS
-M+ Acción HD,ES:M+Acción
-M+ Cine Español,ES:M+CINEESPAÃ‘OL
-M+ Clásicos HD,ES:M+CLÃSICOS
+M+ Acción HD,ES:M+Accion
+M+ Cine Español,ES:M+CINEESPANOL
+M+ Clásicos HD,ES:M+CLASICOS
 M+ Comedia HD,ES:M+COMEDIA
 M+ Copa del Rey,ES:M+COPADELREY
 M+ Deportes HD,ES:M+DEPORTES
